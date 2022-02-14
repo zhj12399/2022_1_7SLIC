@@ -1,0 +1,4 @@
+"/Users/zhj/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.46/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Users/zhj/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/213.6461.46/CLion.app/Contents/bin/ninja/mac/ninja" -G Ninja /Users/zhj/Downloads/数字图像随测4/project
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/zhj/Downloads/数字图像随测4/project/cmake-build-debug
